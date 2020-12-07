@@ -1,4 +1,4 @@
 # Small-modules
 Just another repository
 
-Just some small projects that I've worked on.
+Theese are laborations from the course "Introduction to Programming" at DSV, Stockholms University.
