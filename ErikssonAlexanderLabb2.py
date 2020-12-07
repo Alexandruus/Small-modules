@@ -1,7 +1,6 @@
 """
 Alexander Eriksson
 Windows 10
-Restuppgift
 """
 def Palindrom(User_Input):
 	not_valid = "!\"#€%&/()=? :,'" # En sträng med ogiltiga tecken som skall tas bort
