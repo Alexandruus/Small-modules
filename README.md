@@ -1,4 +1,3 @@
-# Small-modules
+# Small-Python-Modules
 Just another repository
-
-Theese are laborations from the course "Introduction to Programming" at DSV, Stockholms University.
+Just some small projects that I've worked on during the course "Introduction to Programming" at DSV, Stockholms University
